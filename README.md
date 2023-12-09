@@ -1,4 +1,4 @@
-## Tech-lover,Data Analyst, and Virtual Assistant!
+## Tech-lover,Data Analyst, and An aspiring Data Scientist!
 - 👋 Hi, I’m @CodeGraceWanjiku
 - 👀 I’m interested in data analysis with python
 - 🌱 I’m currently learning machine learning
