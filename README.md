@@ -1,5 +1,5 @@
 ## Tech-lover,Data Analyst, and An aspiring Data Scientist!
-- 👋 Hi, I’m @CodeGraceWanjiku
+- 👋 Hi, I’m Grace Wanjiku, a tech lover, mother and a data scientist
 - 👀 I’m interested in data analysis with python
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data analysis projects
